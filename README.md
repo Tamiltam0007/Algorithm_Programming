@@ -1,4 +1,4 @@
-# 🎓 Campus Scheduler — University Timetabling System
+ Campus Scheduler — University System
 
 A 4-stage algorithmic scheduling pipeline built with **Java 21 + Spring Boot 3.2** (backend)
 
