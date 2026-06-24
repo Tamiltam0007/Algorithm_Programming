@@ -1,0 +1,17 @@
+com\campus\scheduler\model\SchedulerData$StudentGroup.class
+com\campus\scheduler\controller\SchedulerController.class
+com\campus\scheduler\model\ScheduleResponse$Assignment.class
+com\campus\scheduler\config\CorsConfig.class
+com\campus\scheduler\model\ScheduleResponse.class
+com\campus\scheduler\algorithm\ConflictGraph.class
+com\campus\scheduler\algorithm\GraphEngine.class
+com\campus\scheduler\model\SchedulerData$Room.class
+com\campus\scheduler\model\ScheduleResponse$StageResult.class
+com\campus\scheduler\algorithm\Optimizer.class
+com\campus\scheduler\model\SchedulerData.class
+com\campus\scheduler\SchedulerApplication.class
+com\campus\scheduler\algorithm\Backtracker.class
+com\campus\scheduler\algorithm\GreedySolver.class
+com\campus\scheduler\model\SchedulerData$Course.class
+com\campus\scheduler\model\ScheduleResponse$GraphInfo.class
+com\campus\scheduler\config\CorsConfig$1.class
