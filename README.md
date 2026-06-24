@@ -12,7 +12,6 @@ campus-scheduler/          ← Spring Boot backend
 ├── src/main/
 │   ├── java/com/campus/scheduler/
 │   │   ├── SchedulerApplication.java       Spring Boot entry point
-│   │   ├── config/CorsConfig.java          CORS for Angular dev server
 │   │   ├── controller/SchedulerController.java  REST API
 │   │   ├── model/
 │   │   │   ├── SchedulerData.java          Input DTOs (mapped from constraints.json)
@@ -26,33 +25,13 @@ campus-scheduler/          ← Spring Boot backend
 │   └── resources/
 │       ├── application.properties
 │       ├── constraints.json                Problem data (classes, rooms, groups)
-│       └── static/                         ← Copy Angular build output here
 
-campus-scheduler-ui/       ← Angular 19 frontend
-├── src/app/
-│   ├── models/schedule.ts
-│   ├── services/scheduler.ts
-│   └── components/
-│       ├── header/
-│       ├── dashboard/
-│       ├── stage-pipeline/
-│       ├── schedule-table/
-│       ├── timetable-view/
-│       ├── conflict-graph/
-│       ├── comparison-chart/
-│       ├── conflict-report/
-│       └── algorithm-detail/
-```
-
----
 
 ## Quick Start
 
 ### Prerequisites
 - Java 21+
 - Maven 3.8+ (or use `./mvnw`)
-- Node 18+ and npm (for Angular)
-
 ---
 
 ### 1. Run the Spring Boot backend
