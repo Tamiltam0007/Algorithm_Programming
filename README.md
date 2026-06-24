@@ -1,6 +1,6 @@
 # 🎓 Campus Scheduler — University Timetabling System
 
-A 4-stage algorithmic scheduling pipeline built with **Java 21 + Spring Boot 3.2** (backend) and **Angular 19** (frontend).
+A 4-stage algorithmic scheduling pipeline built with **Java 21 + Spring Boot 3.2** (backend)
 
 ---
 
